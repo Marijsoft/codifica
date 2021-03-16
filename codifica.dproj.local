@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/03/07 03:36:07.000.433,=C:\Users\marij\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/07 03:36:19.000.821,=C:\Users\marij\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/13 06:53:38.000.254,=C:\Users\marij\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/13 23:25:48.000.761,=C:\Users\marij\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/13 23:27:51.000.889,=C:\Users\marij\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/13 23:29:37.000.397,=C:\Users\marij\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/14 06:54:28.000.901,=C:\Users\marij\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/16 17:40:43.003,=C:\Users\marij\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/16 18:00:52.166,C:\Users\marij\Desktop\codifica\Unit1.pas=C:\Users\marij\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/16 18:00:52.166,C:\Users\marij\Desktop\codifica\Unit1.dfm=C:\Users\marij\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/03/16 18:00:58.010,C:\Users\marij\Desktop\codifica\codifica.dproj=C:\Users\marij\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
